@@ -1,6 +1,6 @@
 # Java-Course
 
-<img src ="code.png" />
+<img src ="tea-gddb34f54a_1280.png" />
 
 ## Table of Contents  
 * [Description](##Description)  
